@@ -1,7 +1,7 @@
 let board = "<table>";
 
 let rowCount = 6;
-let wordLength = 9;
+let wordLength = 5;
 
 
 for (let i = 0; i < rowCount; i++)
